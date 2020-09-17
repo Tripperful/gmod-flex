@@ -8,4 +8,6 @@ Hold down CTRL+SHIFT+C to open the inspector (a thing similar to one you'll find
 
 The inspector itself serves as an example of how approximately to work with this shit, take a look at the code basically, I'm too lazy to document it atm
 
+Here's approximately what it looks like: https://youtu.be/NXE3vxgcleA
+
 ![](https://i.imgur.com/LrSvyxd.png)
